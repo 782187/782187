@@ -1,16 +1,119 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<h1 align="center">✨ Hi, I'm <span style="color:#00eaff;">Avinash Jalindar Shinde</span> 👋</h1>
+<h3 align="center">🔥 Full Stack Developer | Java | Spring Boot | React | Node.js 🔥</h3>
 
-<!--
-**782187/782187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;Frontend+%26+Backend+Expert;Always+Learning+New+Things;Building+Production+Level+Websites" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 **About Me**
+
+I am a **Full Stack Developer** skilled in building scalable, user-focused, end-to-end web applications.  
+I specialize in both **Frontend & Backend**, delivering responsive UI, secure backend APIs,  
+and full production-ready websites for **businesses, startups, and real clients**.
+
+🔹 I have developed **live websites** for:  
+• Training Institutes  
+• Jewellery Shops  
+• Property / Real Estate Companies  
+
+🎯 My goal is to create **clean, optimized, maintainable code** and keep learning modern technologies.
+
+---
+
+## 🚀 **Skills & Tech Stack**
+
+### **Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
+
+### **Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring" />
+</p>
+
+### **Database**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### **Tools & Others**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 🏗️ **Projects (Live)**
+
+### 🔹 **1. Live Training Class Website**
+📌 https://avis-tutorial.netlify.app/  
+A production-level training institute website with responsive UI and dynamic pages.
+
+### 🔹 **2. Live Jewellery Website**
+Modern jewellery storefront with product showcase and inquiry system.
+
+### 🔹 **3. Live Real Estate / Properties Website**
+Responsive property listing website for real estate businesses.
+
+### 🔥 Portfolio Website  
+🌐 **https://avinash-shinde-portfolio.netlify.app/**
+
+---
+
+## 🎓 **Education**
+
+- **B.E. (CSE) – SIEM** — CGPA **8.54**  
+- **HSC – Shree Ganesh College** — **75%**  
+- **SSC – S.D. Jadhav English Medium School** — **85%**
+
+---
+
+## 🏆 **Achievements**
+
+🏅 **1st Position** – Website Designing (TechFest)  
+📜 Completed **Python Course – IIT Kharagpur**  
+🚀 Built **multiple live client websites**
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=782187&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=782187&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=782187&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="https://linkedin.com/in/avinash-shinde-0940b121a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:ajs.ind2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="28"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/782187/782187/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+## 🎉 Thanks for Visiting!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=782187&color=brightgreen" />
+</p>
