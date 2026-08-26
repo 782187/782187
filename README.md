@@ -93,13 +93,6 @@ Responsive property listing website for real estate businesses.
 
 ---
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://github.com/782187/782187/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 ## 🎉 Thanks for Visiting!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=782187&color=brightgreen" />
