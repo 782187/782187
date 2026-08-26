@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">✨ Hi, I'm <span style="color:#00eaff;">Avinash Jalindar Shinde</span> 👋</h1>
-<h3 align="center">🔥 Full Stack Developer | Java | Spring Boot | React | Node.js 🔥</h3>
+<h3 align="center">🔥 Full Stack Developer | Java | JavaScript | MySQL | React | Node.js | AWS 🔥</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;Frontend+%26+Backend+Expert;Always+Learning+New+Things;Building+Production+Level+Websites" />
@@ -77,19 +77,6 @@ Responsive property listing website for real estate businesses.
 🏅 **1st Position** – Website Designing (TechFest)  
 📜 Completed **Python Course – IIT Kharagpur**  
 🚀 Built **multiple live client websites**
-
----
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=782187&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=782187&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=782187&theme=tokyonight" />
-</p>
 
 ---
 
